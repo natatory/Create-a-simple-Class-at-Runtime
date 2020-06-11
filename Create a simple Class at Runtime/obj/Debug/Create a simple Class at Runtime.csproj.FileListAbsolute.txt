@@ -1,0 +1,7 @@
+C:\Users\natatory\source\repos\Codewars\Create a simple Class at Runtime\Create a simple Class at Runtime\obj\Debug\Create a simple Class at Runtime.csprojAssemblyReference.cache
+C:\Users\natatory\source\repos\Codewars\Create a simple Class at Runtime\Create a simple Class at Runtime\obj\Debug\Create a simple Class at Runtime.csproj.CoreCompileInputs.cache
+C:\Users\natatory\source\repos\Codewars\Create a simple Class at Runtime\Create a simple Class at Runtime\bin\Debug\Create a simple Class at Runtime.exe.config
+C:\Users\natatory\source\repos\Codewars\Create a simple Class at Runtime\Create a simple Class at Runtime\bin\Debug\Create a simple Class at Runtime.exe
+C:\Users\natatory\source\repos\Codewars\Create a simple Class at Runtime\Create a simple Class at Runtime\bin\Debug\Create a simple Class at Runtime.pdb
+C:\Users\natatory\source\repos\Codewars\Create a simple Class at Runtime\Create a simple Class at Runtime\obj\Debug\Create a simple Class at Runtime.exe
+C:\Users\natatory\source\repos\Codewars\Create a simple Class at Runtime\Create a simple Class at Runtime\obj\Debug\Create a simple Class at Runtime.pdb
